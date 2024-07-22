@@ -1,6 +1,4 @@
-python:3.12.4-slim
-nginx:1.27.0
-node:22.5.0
+node:22.5.1
 
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0

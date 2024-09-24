@@ -1,4 +1,11 @@
-gitlab/gitlab-ce:14.6.1-ce.0
+ruoyi/ruoyi-gateway:2.1.2
+ruoyi/ruoyi-auth:2.1.2
+ruoyi/ruoyi-system:2.1.2
+ruoyi/ruoyi-resource:2.1.2
+omind/omind-baseplat:1.0.0
+omind/omind-userplat:1.0.0
+omind/omind-simplat:1.0.0
+omind/omind-mp:1.0.0
 
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0

@@ -1,4 +1,7 @@
-openvino/ubuntu22_dev:latest
+modstart/tengine:1.0.0
+modstart/php56:1.1.0
+modstart/supervisor_php56:1.0.0
+mysql:5.6.29
 
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0

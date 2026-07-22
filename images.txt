@@ -1,4 +1,8 @@
-fatedier/frpc:v0.69.1
+infiniflow/ragflow:v0.26.4
+mysql:8.0.40
+valkey/valkey:8
+pgsty/minio:RELEASE.2026-03-25T00-00-00Z
+elasticsearch:8.11.3
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest

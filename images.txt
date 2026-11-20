@@ -1,6 +1,5 @@
 mysql:8.0
 apache/kafka:3.9.0
-minio/minio:RELEASE.2024-12-18T13-15-44Z
 milvusdb/milvus:v2.5.10
 neo4j:5.26-community
 redis:7-alpine
